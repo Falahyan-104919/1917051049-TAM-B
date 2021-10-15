@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B392AC</color>
+    <color name="colorPrimaryDark">#735D78</color>
+    <color name="colorAccent">#D1B3C4</color>
+    <color name="colorCardPrimary">#eeeeee</color>
+    <color name="colorBackground">#ffeeee</color>
+    <color name="colorCardPrimaryText">#111111</color>
+    <color name="colorCardBottomText">#222222</color>
+    <color name="shimmer_view">#DFDFDF</color>
+    <color name="white">#ffffff</color>
+</resources>

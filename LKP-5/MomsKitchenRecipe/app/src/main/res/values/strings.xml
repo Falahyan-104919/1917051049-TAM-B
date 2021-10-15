@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Resep Dapur Mama</string>
+    <string name="search">Cari Makanan</string>
+    <string name="meal_category">Kategori Makanan</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="category">Kategori</string>
+    <string name="country">Negara</string>
+    <string name="instructions">INSTRUKSI</string>
+    <string name="dot_loading">...</string>
+    <string name="Ingredients">BAHAN</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="source">SOURCE</string>
+    <string name="favorite">Favorite</string>
+</resources>
